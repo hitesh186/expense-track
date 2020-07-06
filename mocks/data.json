@@ -1,0 +1,60 @@
+{
+  "Expense": [
+    {
+      "id": "OG2yKmT",
+      "itemName": "Patel Brothers",
+      "itemCategory": "Grocery",
+      "itemDate": "2020-06-06T04:00:00.000Z",
+      "itemAmount": "38"
+    },
+    {
+      "id": "UY_KGWw",
+      "itemName": "Walmart",
+      "itemCategory": "Food",
+      "itemDate": "2020-06-13T04:00:00.000Z",
+      "itemAmount": "65"
+    },
+    {
+      "id": "865yQ48",
+      "itemName": "gas",
+      "itemCategory": "Travel",
+      "itemDate": "2020-06-13T04:00:00.000Z",
+      "itemAmount": "20"
+    },
+    {
+      "id": "guuzO3d",
+      "itemName": "Amazon",
+      "itemCategory": "shopping",
+      "itemDate": "2020-06-22T04:00:00.000Z",
+      "itemAmount": "14.28"
+    },
+    {
+      "id": "RSfKBnE",
+      "itemName": "gas",
+      "itemCategory": "travel",
+      "itemDate": "2020-06-10T04:00:00.000Z",
+      "itemAmount": "20"
+    },
+    {
+      "id": "vsZqJob",
+      "itemName": "walmart",
+      "itemCategory": "grocery",
+      "itemDate": "2020-06-13T04:00:00.000Z",
+      "itemAmount": "65"
+    },
+    {
+      "id": "4dSmvCo",
+      "itemName": "public",
+      "itemCategory": "Grocery",
+      "itemDate": "2020-07-17T04:00:00.000Z",
+      "itemAmount": "19"
+    },
+    {
+      "id": "u8dy171",
+      "itemName": "Food",
+      "itemCategory": "Restaurant",
+      "itemDate": "2020-07-03T04:00:00.000Z",
+      "itemAmount": "25"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.expanded-toolbar {
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  @media only screen and (min-height: 768px){
+    
+  }
+  :host{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}

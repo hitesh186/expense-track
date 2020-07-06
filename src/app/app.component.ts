@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'material-tic-tac-toe';
+  title = 'Expense';
+  isAuthenticated: boolean;
 }
