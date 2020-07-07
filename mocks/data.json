@@ -55,6 +55,13 @@
       "itemCategory": "Restaurant",
       "itemDate": "2020-07-03T04:00:00.000Z",
       "itemAmount": "25"
+    },
+    {
+      "id": "VqpFqe-",
+      "itemName": "Patel Brothers",
+      "itemCategory": "Grocery",
+      "itemDate": "2020-07-05T04:00:00.000Z",
+      "itemAmount": "63.50"
     }
   ]
 }

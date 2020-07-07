@@ -11,7 +11,8 @@ import { map } from "rxjs/operators";
 export class ExpenseService {
 
   public httpOptions: any;
-  private serviceUrl = "http://localhost:3000/Expense";
+  /* private serviceUrl = "http://localhost:3000/Expense"; */
+  private serviceUrl = "http://my-json-server.typicode.com/hitesh186/rest-api/Expense";
 
   constructor(private http: HttpClient) {
 

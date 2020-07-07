@@ -68,7 +68,7 @@ export class ExpenseComponent implements OnInit {
       }) */
   }
 
-  addExpense(dataExpense) {
+  addExpense() {
     this.expenseService.createExpenses(this.expenseDetails).subscribe((data: {}) => {
       this.router.navigate(['/home'])
     })
